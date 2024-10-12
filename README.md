@@ -3,7 +3,7 @@
 A simple and responsive currency converter application built with React and Tailwind CSS. It allows users to convert an amount from one currency to another using real-time exchange rates fetched from the ExchangeRate-API.
 
 ## Demo
-
+http://currency-convertor-react-app.s3-website.ap-south-1.amazonaws.com/
 ![Currency Converter Demo](./images/demo.gif) *(Ensure you replace this with your actual demo image or GIF)*
 
 ## Features
